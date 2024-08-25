@@ -1,0 +1,58 @@
+.container-principal{
+	background-color: white;
+	height: 400vh;
+}
+
+.container-central{
+	background-color: #780000;	
+	height: 130vh;
+}
+
+.photo{
+	height: 70vh;
+	width: 100%;
+	
+	justify-content: center;
+}
+
+.photo img{
+	height: 70vh;
+	width: 100%;
+}
+
+.photo .frase-photo h1{
+	color: #495057;
+	font-family:"Nexa W01 Heavy";
+}
+
+.frase-photo h1{
+	font-size: 85px;
+	position: relative;
+	margin-top: -27%;
+}
+
+.container-central h1, h4{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+
+	color: white;
+}
+
+.container-central h1{
+	padding-top: 3%;
+}
+
+.container-central h4{
+	padding-top: 1%;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+.container-beneficios{
+	width: 90%;
+	height: 50vh;
+	margin: 10vh 5% 0 5%;
+	
+	display: flex;
+}
+
+.beneficios-texto{
+	width: 50%;
+	height: 100%;
+	
+	padding-right: 5%;
+}
+
+.beneficios-texto h5{
+    text-align: justify;
+    color: #495057;
+}
+
+.beneficios-texto h1{
+    color: #495057;
+	font-family: "Nexa W01 Heavy";
+}
+
+.beneficios-imagem{
+	width: 50%;
+	height: 100%;
+	
+}
+
+.beneficios-imagem img{
+	width: 100%;
+	height: 100%;
+}
+

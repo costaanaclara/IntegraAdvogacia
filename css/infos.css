@@ -1,0 +1,32 @@
+.container-infos{
+	width: 80%;
+	height: 30vh;
+    margin: 0 23% 0 23%;
+	display: flex;
+}
+
+.container-infos h3{
+    font-family: "Nexa W01 Heavy";
+    color: #780000;
+}
+
+.info-endereco{
+	width: 20;
+	height: 100%;
+
+	padding: 5vh 10vh 10vh 15vh;
+}
+
+.info-telefone{
+	width: 20%;
+	height: 100%;
+
+	padding: 5vh 0vh 10vh 0vh;
+}
+
+.info-horarios{
+	width: 33%;
+	height: 100%;
+
+	padding: 5vh 15vh 10vh 3vh;
+}

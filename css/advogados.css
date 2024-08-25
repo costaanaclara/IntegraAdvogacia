@@ -1,0 +1,131 @@
+.container-advogados{
+	width: 100%;
+	height: 68vh;
+
+    margin-top: 5%;
+    padding-left: 5%;
+
+	display: flex;
+	
+    background-color: #780000;
+	color: white;	
+}
+
+.container-advogados h1{
+    font-family: "Nexa W01 Heavy";
+}
+
+.advogados{
+	width: 90%;
+	height: 50vh;
+	margin: 5% 5% 5% 0;
+	
+	display: flex;
+}
+
+.advogados-titulo{
+    width: 30%;
+    height: 100%;
+
+    text-align: right;
+    padding-right: 6%;
+    align-items: center;
+    display: flex;
+}
+
+.advogados button{
+	width: 15vh;
+	height: 5vh;
+}
+
+.advogado-um{
+	width: 33.5%;
+	height: 100%;
+	background-color: #c1121f;
+
+	align-items: center;
+	text-align: center;
+	
+	padding-top: 4%;
+}
+
+.advogado-um img{
+	width: 20vh;
+	height: 20vh;
+    
+    margin-bottom: 3%;
+	
+    border-radius: 50%;
+}
+
+.advogado-um  button{
+	background-color: #f1faee;
+	border-color: #f1faee;
+    color: #c1121f;
+    
+    border-radius: 10%;
+
+	margin-top: 3%;
+}
+
+.advogado-dois{
+	width: 33.5%;
+	height: 100%;
+	
+	align-items: center;
+	text-align: center;
+	padding-top: 4%;
+
+    background-color: #f1faee;
+    color: #c1121f;
+}
+
+.advogado-dois img{
+	width: 20vh;
+	height: 20vh;
+
+	border-radius: 50%;
+	
+    margin-bottom: 3%;
+}
+
+.advogado-dois button{
+	background-color: #c1121f;
+	border-color: #c1121f;
+    color: #f1faee;
+
+	border-radius: 10%;
+
+    margin-top: 3%;
+}
+
+.advogado-tres{
+	width: 33%;
+	height: 100%;
+	
+	align-items: center;
+	text-align: center;
+	padding-top: 4%;
+
+    background-color: #c1121f;
+    color: #f1faee;
+}
+
+.advogado-tres img{
+	width: 20vh;
+	height: 20vh;
+
+	border-radius: 50%;
+	
+    margin-bottom: 3%;
+}
+.advogado-tres button{
+	background-color: #f1faee;
+	border-color: #f1faee;
+	color: #c1121f;
+
+    border-radius: 10%;
+
+    margin-top: 3%;
+}
+
